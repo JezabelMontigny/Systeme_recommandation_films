@@ -39,5 +39,6 @@ Bienvenue dans notre application interactive développée avec **Streamlit** per
 
 
 
-![systeme_recommandation_films Page 2](https://github.com/user-attachments/assets/e8d50f91-bee6-40e3-879a-e449822fcb1f)
+![systeme_recommandation_films Page 2](https://github.com/user-attachments/assets/49a6293e-7186-491f-98a3-e22be6431ef9)
+
 
