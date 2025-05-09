@@ -28,16 +28,19 @@ Bienvenue dans notre application interactive développée avec **Streamlit** per
 - Pandas, NumPy, Scikit-learn
 - Streamlit
 - API TMDB (The Movie Database)
-- Datasets IMDb
-- Dataset TMDB
+  
+---
+
+## 📚 Jeux de données fournis par le client
+
+- Bases de données **IMDb** 
+- Base de données **TMDB**
 
 ---
 
 ## 🖼️ Aperçu de l'application
 
 ![systeme_recommandation_films Page 1](https://github.com/user-attachments/assets/e11e0454-0a30-4192-b09b-99e2ab83cd9f)
-
-
 
 ![systeme_recommandation_films Page 2](https://github.com/user-attachments/assets/49a6293e-7186-491f-98a3-e22be6431ef9)
 
